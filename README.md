@@ -1,6 +1,7 @@
 # stock-picker  
 
 App that takes a set of stock prices representing hypothetical days and returns the best day to buy and then sell.  
+If you don't have ruby installed you can run this program through this link https://replit.com/@AxtonSmith/stock-picker#README.md and then follow the instructions at top of the README
 
 ## finished  
 
